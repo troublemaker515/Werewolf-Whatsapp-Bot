@@ -7,9 +7,9 @@ global.version = `v${pkg.version}`;
 
 
 // Global Configuration
-const ownerNumbers = '62xxxxxxxxxxx'; // Ganti dengan nomor WhatsApp Anda
-const botNumbers = '62xxxxxxxxxxx'; // penting!! wajib ganti jadi nomor bot mu untuk Pairing number
-const NamaOwner = 'Raihan'; // Ganti dengan nama Anda
+const ownerNumbers = '919148942515'; // Ganti dengan nomor WhatsApp Anda
+const botNumbers = '918660885785'; // penting!! wajib ganti jadi nomor bot mu untuk Pairing number
+const NamaOwner = 'vivek'; // Ganti dengan nama Anda
 const NamaBot = '© 2025 Werewolf Bot'; // Ganti dengan nama bot Anda
 
 // URLs
