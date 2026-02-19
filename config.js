@@ -4,7 +4,7 @@ global.version = `v${pkg.version}`;
 
 // Global Configuration
 const ownerNumbers = '79998194407'; // Ganti dengan nomor WhatsApp Anda
-const botNumbers = '918660885785'; // penting!! wajib ganti jadi nomor bot mu untuk Pairing number
+const botNumbers = '584262200977'; // penting!! wajib ganti jadi nomor bot mu untuk Pairing number
 const lidNumber = '251543483859030@lid'; // Ganti dengan LID Anda, kirim command .getlid ke bot untuk mendapatkan LID Anda
 const NamaOwner = 'vivek'; // Ganti dengan nama Anda
 const NamaBot = '© 2026 Werewolf Bot'; // Ganti dengan nama bot Anda
@@ -28,3 +28,4 @@ global.info = {
 // expose pairing method globally so other modules can read it
 
 global.pairingMetode = pairingMetode;
+
